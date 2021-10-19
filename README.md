@@ -1,2 +1,2 @@
-# huluproject
+# hulu
 A duplicated website 
