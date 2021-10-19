@@ -1,2 +1,0 @@
-# hulu
-A duplicated website 
